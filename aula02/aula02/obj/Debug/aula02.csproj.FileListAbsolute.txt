@@ -1,0 +1,7 @@
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\bin\Debug\aula02.exe.config
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\bin\Debug\aula02.exe
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\bin\Debug\aula02.pdb
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\obj\Debug\aula02.csproj.AssemblyReference.cache
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\obj\Debug\aula02.csproj.CoreCompileInputs.cache
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\obj\Debug\aula02.exe
+C:\Users\marcia.gmcondarco\source\repos\aula02\aula02\obj\Debug\aula02.pdb
